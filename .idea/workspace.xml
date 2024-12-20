@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf0f6ad4-b6ff-44eb-8395-91c780df9a51" name="Changes" comment="init demo">
+      <change afterPath="$PROJECT_DIR$/dapp/app/details/[id]/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dapp/app/launch/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dapp/app/launch/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dapp/components/FormField.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dapp/components/IdeaCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dapp/components/Loader.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dapp/components/XAlert.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dapp/components/XBox.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dapp/components/XButton.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dapp/global.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dapp/hook/useContract.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dapp/service/ethers.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dapp/utils/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/1_initial_HaveAnIdea.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/haveanidea-me.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/contracts/CrowdFunding.json" beforeDir="false" afterPath="$PROJECT_DIR$/dapp/service/HaveAnIdea.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/contracts/Migrations.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/CrowFunding.sol" beforeDir="false" afterPath="$PROJECT_DIR$/contracts/HaveAnIdea.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/Migrations.sol" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dapp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dapp/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dapp/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dapp/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dapp/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dapp/public/header.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dapp/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dapp/public/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dapp/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dapp/src/api/CrowdFunding.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dapp/src/api/Migrations.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dapp/src/api/contract.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dapp/src/components/BForm.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dapp/src/components/Use.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dapp/src/components/base/fade.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dapp/src/components/base/modal.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dapp/src/components/footer.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dapp/src/components/header.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dapp/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dapp/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dapp/src/router/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dapp/src/shims-vue.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dapp/src/type/form.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dapp/src/views/Details.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dapp/src/views/Home.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dapp/src/views/Myself.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dapp/src/views/launch.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dapp/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dapp/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/1_initial_migration.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/2_initial_CrowdFunding.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SimpleExample.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/HaveAnIdea.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/truffle-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/truffle-config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;xiaokuige&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/haveanidea-community/app.haveanidea.me.git&quot;,
+    &quot;accountId&quot;: &quot;81df681b-25da-44f4-b2b9-2bac192e725e&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/dapp/node_modules/.pnpm/@types+react@18.3.3/node_modules/@types/react/index.d.ts" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2p7haiKtqbFa8a2iH3mQrkamL62" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dev-1.0.0&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/xukui/demo-workspace/app.haveanidea.me/dapp/service&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.build.executor&quot;: &quot;Run&quot;,
+    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
+    &quot;npm.serve.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/xukui/demo-workspace/app.haveanidea.me/dapp/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dapp/service" />
+      <recent name="$PROJECT_DIR$/dapp/app/test" />
+      <recent name="$PROJECT_DIR$/dapp/services" />
+      <recent name="$PROJECT_DIR$/dapp/public" />
+      <recent name="$PROJECT_DIR$/dapp/src/api" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dapp/app/details/[id]" />
+      <recent name="$PROJECT_DIR$/dapp/components" />
+      <recent name="$PROJECT_DIR$/dapp/src/app/dashboard/setting" />
+      <recent name="$PROJECT_DIR$/dapp/src/components/" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/dapp/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/dapp/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="serve" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/dapp/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.23726.96" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf0f6ad4-b6ff-44eb-8395-91c780df9a51" name="Changes" comment="" />
+      <created>1732123087871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732123087871</updated>
+      <workItem from="1732123089708" duration="9847000" />
+      <workItem from="1732257831469" duration="11334000" />
+      <workItem from="1732284116783" duration="4043000" />
+      <workItem from="1732464603257" duration="4123000" />
+      <workItem from="1732529978509" duration="10948000" />
+      <workItem from="1732693954687" duration="49000" />
+      <workItem from="1732710811042" duration="9527000" />
+      <workItem from="1733066040972" duration="24723000" />
+      <workItem from="1733232862268" duration="41351000" />
+      <workItem from="1733329742893" duration="480000" />
+      <workItem from="1733372869814" duration="10146000" />
+      <workItem from="1733545804287" duration="9492000" />
+      <workItem from="1733707969401" duration="73422000" />
+      <workItem from="1733967445428" duration="7388000" />
+      <workItem from="1734239489793" duration="3977000" />
+      <workItem from="1734273741054" duration="7077000" />
+      <workItem from="1734320218458" duration="11020000" />
+      <workItem from="1734436666273" duration="3489000" />
+      <workItem from="1734440992333" duration="200000" />
+      <workItem from="1734441214424" duration="4115000" />
+      <workItem from="1734583850043" duration="3085000" />
+      <workItem from="1734603673140" duration="11187000" />
+    </task>
+    <task id="LOCAL-00001" summary="init demo">
+      <option name="closed" value="true" />
+      <created>1733233942595</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733233942595</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init demo">
+      <option name="closed" value="true" />
+      <created>1733288047896</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733288047896</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init demo">
+      <option name="closed" value="true" />
+      <created>1733298499619</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733298499619</updated>
+    </task>
+    <task id="LOCAL-00004" summary="init demo">
+      <option name="closed" value="true" />
+      <created>1733304597243</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733304597243</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="init demo" />
+  </component>
+</project>
