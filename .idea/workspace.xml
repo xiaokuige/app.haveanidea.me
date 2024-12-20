@@ -5,62 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf0f6ad4-b6ff-44eb-8395-91c780df9a51" name="Changes" comment="init demo">
-      <change afterPath="$PROJECT_DIR$/dapp/app/details/[id]/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dapp/app/launch/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dapp/app/launch/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dapp/components/FormField.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dapp/components/IdeaCard.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dapp/components/Loader.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dapp/components/XAlert.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dapp/components/XBox.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dapp/components/XButton.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dapp/global.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dapp/hook/useContract.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dapp/service/ethers.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dapp/utils/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/1_initial_HaveAnIdea.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/haveanidea-me.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img-02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/contracts/CrowdFunding.json" beforeDir="false" afterPath="$PROJECT_DIR$/dapp/service/HaveAnIdea.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/contracts/Migrations.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/CrowFunding.sol" beforeDir="false" afterPath="$PROJECT_DIR$/contracts/HaveAnIdea.sol" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/Migrations.sol" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dapp/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dapp/babel.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dapp/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dapp/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dapp/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dapp/public/header.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dapp/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dapp/public/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dapp/src/App.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dapp/src/api/CrowdFunding.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dapp/src/api/Migrations.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dapp/src/api/contract.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dapp/src/components/BForm.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dapp/src/components/Use.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dapp/src/components/base/fade.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dapp/src/components/base/modal.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dapp/src/components/footer.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dapp/src/components/header.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dapp/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dapp/src/main.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dapp/src/router/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dapp/src/shims-vue.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dapp/src/type/form.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dapp/src/views/Details.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dapp/src/views/Home.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dapp/src/views/Myself.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dapp/src/views/launch.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dapp/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dapp/yarn.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/1_initial_migration.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/2_initial_CrowdFunding.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/SimpleExample.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/HaveAnIdea.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/truffle-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/truffle-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image-20210101201434532.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image-20210101201558428.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/contracts/HaveAnIdea.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/contracts/HaveAnIdea.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +36,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/haveanidea-community/app.haveanidea.me.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/xiaokuige/app.haveanidea.me.git&quot;,
     &quot;accountId&quot;: &quot;81df681b-25da-44f4-b2b9-2bac192e725e&quot;
   }
 }</component>
@@ -106,8 +59,8 @@
   &quot;keyToString&quot;: {
     &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;dev-1.0.0&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/xukui/demo-workspace/app.haveanidea.me/dapp/service&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/xukui/demo-workspace/app.haveanidea.me&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -211,6 +164,8 @@
       <workItem from="1734441214424" duration="4115000" />
       <workItem from="1734583850043" duration="3085000" />
       <workItem from="1734603673140" duration="11187000" />
+      <workItem from="1734676001820" duration="2010000" />
+      <workItem from="1734696429897" duration="3723000" />
     </task>
     <task id="LOCAL-00001" summary="init demo">
       <option name="closed" value="true" />
